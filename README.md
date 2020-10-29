@@ -15,7 +15,7 @@ Write a function that when given a number >= 0, returns an Array of ascending le
 Note: the subarrays should be filled with 1's
 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Pyramid_Array/main/Images/chichen-itza-Markus Lechtenboehmer.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Pyramid_Array/main/Images/chichen-itza-Markus%20Lechtenboehmer.jpg)
 
 *I felt like I was climbing the steps of Chichen Itza in this kata! Source: Markus Lechtenboehmer, Unsplash.com*
 
