@@ -1,9 +1,9 @@
 
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/wilhelm-gunkel-invYnIE2Mv8-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Pyramid_Array/main/Images/steffen-gundermann-PtGvu2P-Gco-unsplash.jpg)
 
-*Counting the number of repeated letters, over and over. Source: Wilhelm Gunkel, Unsplash.com*
+*This kata is NOT about your basic pyramids in Egypt. Source: Steffen Gundermann, Unsplash.com*
 
 
 ## Code_Challenge_Pyramid_Array
@@ -15,9 +15,9 @@ Write a function that when given a number >= 0, returns an Array of ascending le
 Note: the subarrays should be filled with 1's
 
 
-![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/nicole-ferzoco-nY2ksaM92co-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Pyramid_Array/main/Images/chichen-itza-Markus Lechtenboehmer.jpg)
 
-*I felt like I was going around in consecutive circles with this kata! Source: Nicole Ferzoco, Unsplash.com*
+*I felt like I was climbing the steps of Chichen Itza in this kata! Source: Markus Lechtenboehmer, Unsplash.com*
 
 
 ## Examples:
@@ -36,8 +36,8 @@ This kata was written by: sahglie
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/letters-2-Stephen%20Tainton.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Pyramid_Array/main/Images/canmandawe-louve-unsplash.jpg)
 
-*This code challenge took a lot of time looking at strings of letters! Source: Stephen Tainton, Unsplash.com*
+*Finally reached the top! If only I had seen the light earlier...  Source: Canmandawe, Unsplash.com*
 
 
